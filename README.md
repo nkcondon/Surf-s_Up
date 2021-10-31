@@ -46,3 +46,5 @@ December Data:
 ![image](https://user-images.githubusercontent.com/89953246/139588507-01e86d15-684c-4899-8454-f13b24865a2c.png)
 
 
+# Summary
+In summary, the outside weather is comparable for June and July for the investment of the "Surf and Shake Shop".  It is recommended to include the precipitation, water temperature, wave data (interval, direction and height), competitors and tourist information into this analysis to identify strengths and weakness of the investment.  This will aid the investor in planning for "peak" and "low" times.
