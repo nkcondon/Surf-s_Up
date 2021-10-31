@@ -28,7 +28,18 @@ Upon review of the each month's statistics:
 
 ![image](https://user-images.githubusercontent.com/89953246/139587486-d69868d7-bafc-475c-aa85-5b9a0d953f8e.png)
 
-Weather data supplied was ample for both months.  
+Upon review of the statistics:  
 
+  - Sample size was comparable between both months, June having 129 more data points.
+  - Standard deviation of the dataset = June 3.26 / December 3.75; reflecting slightly more variance in December's data.
   - For average temperature (Fahrenheit) for June was slightly warmer and Decemeber cooler for the daily lows (June = 74.9F / 64.0F, December = 71.04F / 56.0F).  
-  - Within the 50 and 75 percentiles, the temperatures were within 3-4 degrees, with the maxium temperature 85.0F / 83.0 F respectively.
+  - Within the 50th and 75th percentiles, the temperatures were within 3-4 degrees, with the maxium temperature 85.0F / 83.0 F respectively.
+  
+A histogram and bar graph was created to reflect the given data.
+June Data:
+![image](https://user-images.githubusercontent.com/89953246/139588399-b4ea2c4f-dce8-46c5-b4a2-c793e744cd91.png)
+
+December Data:
+![image](https://user-images.githubusercontent.com/89953246/139588507-01e86d15-684c-4899-8454-f13b24865a2c.png)
+
+
