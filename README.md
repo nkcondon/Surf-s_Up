@@ -30,6 +30,5 @@ Upon review of the each month's statistics:
 
 Weather data supplied was ample for both months.  
 
-## For average temperature (Fahrenheit) for June was slightly warmer and Decemeber cooler for the daily lows (June = 74.9F / 64.0F, December = 71.04F / 56.0F).  
-## Within the 50 and 75 percentiles, the temperatures were within 3-4 degrees, with the maxium temperature 85.0F / 83.0 F respectively.
-##
+  - For average temperature (Fahrenheit) for June was slightly warmer and Decemeber cooler for the daily lows (June = 74.9F / 64.0F, December = 71.04F / 56.0F).  
+  - Within the 50 and 75 percentiles, the temperatures were within 3-4 degrees, with the maxium temperature 85.0F / 83.0 F respectively.
