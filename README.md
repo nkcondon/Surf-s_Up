@@ -22,3 +22,14 @@ The same code was refactored and used to capture December's temperature data and
 ![image](https://user-images.githubusercontent.com/89953246/139587259-dd9e8124-c78e-43f1-b1b7-5a3e63648c0a.png)
 
 ![image](https://user-images.githubusercontent.com/89953246/139587340-6203be3c-e212-4009-957c-21097ae575c2.png)
+
+# Results
+Upon review of the each month's statistics:
+
+![image](https://user-images.githubusercontent.com/89953246/139587486-d69868d7-bafc-475c-aa85-5b9a0d953f8e.png)
+
+Weather data supplied was ample for both months.  
+
+##For average temperature (Fahrenheit) for June was slightly warmer and Decemeber cooler for the daily lows (June = 74.9F / 64.0F, December = 71.04F / 56.0F).  
+##Within the 50 and 75 percentiles, the temperatures were within 3-4 degrees, with the maxium temperature 85.0F / 83.0 F respectively.
+##
