@@ -18,5 +18,4 @@ The June temperatures were then saved as Pandas dataframe and using the "describ
 ![image](https://user-images.githubusercontent.com/89953246/139586795-d4c1aedc-c76e-4a16-8d83-34327796bcb0.png)
 
 The same code was refactored and used to capture December's temperature data and statistics.
-
 ![image](https://user-images.githubusercontent.com/89953246/139587103-62907143-0d0c-42e3-a2bd-2ce1dfb0df2c.png)
