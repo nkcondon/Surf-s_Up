@@ -9,7 +9,7 @@ The data provided by the client was in a SQLite database named "hawaii.sqlite". 
 
 ![image](https://user-images.githubusercontent.com/89953246/139586514-38f82522-4b7f-4d5f-ade5-704b8bc7c1d7.png)
 
-SQLAlchemy was used to connect, create a new model(schema), create classes(reflect) and query the database to perform the analysis. The next requirement was to query the database under the "Measurement" and filter the "date" column for June temperatures. The "extract" function was used to help collect all June data for the 10 years of data.
+SQLAlchemy was used to connect, create a new model(schema), classes(reflect) and query the database to perform the analysis. The next requirement was to query the database under the "Measurement" table and filtered the "date" column for June temperatures. The "extract" function was used to help collect all June data for the 10 years of data.
 
 ![image](https://user-images.githubusercontent.com/89953246/139586644-0b34fe88-d6fc-4816-9288-99f84351f694.png)
 
