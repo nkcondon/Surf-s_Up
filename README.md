@@ -5,7 +5,7 @@ W. Avy has requested a weather analysis on Oahu, Ha for the potential investment
 Software utilized for the analysis:  Jupyter Core 4.7.1 / Jupter Client 7.27 / Python 3.7.6.
 
 # Overview of Analysis
-The data provided by the client was in a SQLite database named "hawaii.sqlite".  To begin the analysis, additional tools were needed amd were "imported":
+The data provided by the client was in a SQLite database named "hawaii.sqlite".  To begin the analysis, additional tools were "imported":
 
 ![image](https://user-images.githubusercontent.com/89953246/139586514-38f82522-4b7f-4d5f-ade5-704b8bc7c1d7.png)
 
